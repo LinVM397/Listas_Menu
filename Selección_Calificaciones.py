@@ -14,6 +14,6 @@ elif calificacion>=70 and calificacion<=80:
 elif calificacion>=60 and calificacion<=70:
     print("¡Suficiente!")
 elif calificacion>=0 and calificacion<=60:
-    print("¡Mala!")
+    print("¡Reprobado!")
 else:
     print("Error:Calificación erronea")
