@@ -3,6 +3,7 @@ x = 1
 suma = 0
 print("== Suma ==")
 while x<=100:
+    print(x,"+ ", end = "")
     suma = suma + x
     x+=1
 
